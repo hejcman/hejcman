@@ -1,2 +1,4 @@
 
-<img src="./content.svg">
+<p align="center">
+    <img src="./content.svg">
+</p>

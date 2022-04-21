@@ -591,24 +591,13 @@
 					</p>
 				</div>
 
-				<h3 id="languages">Languages</h3>
-				<div class="row">
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" />
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" />
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" />
-				</div>
+				<h3 id="languages">Languages and tools</h3>
+				I have experience using <em>C</em>, <em>Python</em>, and <em>Go</em> in production environments.
+				I also like to toy with <em>Godot/GDScript</em> and <em>LaTeX</em>.
 
 				<h3 id="tools">Tools and frameworks</h3>
-				<div class="row">
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" />
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" />
-					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-				</div>
+				I am proficient with <em>Git</em>, <em>Docker</em> and <em>Flask</em>. I also have some experience
+				using <em>Ansible</em> and <em>Vagrant</em> for deployments. I am also activelly learning <em>PyTorch</em>.
 
 				<h3 id="bcthesis">My bachelor's thesis</h3>
 				<a href="https://www.fit.vut.cz/study/thesis/23922/.en">Fingerprinting and Identification of TLS Connections</a>
