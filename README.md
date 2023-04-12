@@ -6,45 +6,16 @@ I am a student at the [Brno University of Technology](https://www.fit.vut.cz/.cs
   <a href="https://www.linkedin.com/in/lukashejcman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
----
-
-### Languages
-
-I frequently work with the following languages:
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width=40/>
-</div>
-
-I also have limited experience with the following languages:
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-plain.svg" width=40/>
-</div>
-
-### Tools and frameworks
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width=40/>
+  <a href="https://github.com/hejcman/hejcman/blob/main/hejcman_cz.pdf">
+    <img src="https://img.shields.io/badge/My Czech CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My Czech CV"/>
+  </a>
 </div>
 
 <details>
 <summary><h4>More about me...</h4></summary>
 
 ### My Bachelor'r thesis 📘
+
 [Fingerprinting and Identification of TLS Connections](https://www.fit.vut.cz/study/thesis/23922/.en)
 
 </details>
